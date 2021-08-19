@@ -1,0 +1,1745 @@
+[
+    {
+        "en_name": "Afghanistan",
+        "alpha2": "AF",
+        "alpha3": "AFG",
+        "id": "004",
+        "name": "阿富汗"
+    },
+    {
+        "en_name": "Åland Islands",
+        "alpha2": "AX",
+        "alpha3": "ALA",
+        "id": "248",
+        "name": "奥兰"
+    },
+    {
+        "en_name": "Albania",
+        "alpha2": "AL",
+        "alpha3": "ALB",
+        "id": "008",
+        "name": "阿尔巴尼亚"
+    },
+    {
+        "en_name": "Algeria",
+        "alpha2": "DZ",
+        "alpha3": "DZA",
+        "id": "012",
+        "name": "阿尔及利亚"
+    },
+    {
+        "en_name": "American Samoa",
+        "alpha2": "AS",
+        "alpha3": "ASM",
+        "id": "016",
+        "name": "美属萨摩亚"
+    },
+    {
+        "en_name": "Andorra",
+        "alpha2": "AD",
+        "alpha3": "AND",
+        "id": "020",
+        "name": "安道尔"
+    },
+    {
+        "en_name": "Angola",
+        "alpha2": "AO",
+        "alpha3": "AGO",
+        "id": "024",
+        "name": "安哥拉"
+    },
+    {
+        "en_name": "Anguilla",
+        "alpha2": "AI",
+        "alpha3": "AIA",
+        "id": "660",
+        "name": "安圭拉"
+    },
+    {
+        "en_name": "Antarctica",
+        "alpha2": "AQ",
+        "alpha3": "ATA",
+        "id": "010",
+        "name": "南极洲"
+    },
+    {
+        "en_name": "Antigua and Barbuda",
+        "alpha2": "AG",
+        "alpha3": "ATG",
+        "id": "028",
+        "name": "安提瓜和巴布达"
+    },
+    {
+        "en_name": "Argentina",
+        "alpha2": "AR",
+        "alpha3": "ARG",
+        "id": "032",
+        "name": "阿根廷"
+    },
+    {
+        "en_name": "Armenia",
+        "alpha2": "AM",
+        "alpha3": "ARM",
+        "id": "051",
+        "name": "亚美尼亚"
+    },
+    {
+        "en_name": "Aruba",
+        "alpha2": "AW",
+        "alpha3": "ABW",
+        "id": "533",
+        "name": "阿鲁巴"
+    },
+    {
+        "en_name": "Australia",
+        "alpha2": "AU",
+        "alpha3": "AUS",
+        "id": "036",
+        "name": "澳大利亚"
+    },
+    {
+        "en_name": "Austria",
+        "alpha2": "AT",
+        "alpha3": "AUT",
+        "id": "040",
+        "name": "奥地利"
+    },
+    {
+        "en_name": "Azerbaijan",
+        "alpha2": "AZ",
+        "alpha3": "AZE",
+        "id": "031",
+        "name": "阿塞拜疆"
+    },
+    {
+        "en_name": "Bahamas",
+        "alpha2": "BS",
+        "alpha3": "BHS",
+        "id": "044",
+        "name": "巴哈马"
+    },
+    {
+        "en_name": "Bahrain",
+        "alpha2": "BH",
+        "alpha3": "BHR",
+        "id": "048",
+        "name": "巴林"
+    },
+    {
+        "en_name": "Bangladesh",
+        "alpha2": "BD",
+        "alpha3": "BGD",
+        "id": "050",
+        "name": "孟加拉国"
+    },
+    {
+        "en_name": "Barbados",
+        "alpha2": "BB",
+        "alpha3": "BRB",
+        "id": "052",
+        "name": "巴巴多斯"
+    },
+    {
+        "en_name": "Belarus",
+        "alpha2": "BY",
+        "alpha3": "BLR",
+        "id": "112",
+        "name": "白俄罗斯"
+    },
+    {
+        "en_name": "Belgium",
+        "alpha2": "BE",
+        "alpha3": "BEL",
+        "id": "056",
+        "name": "比利时"
+    },
+    {
+        "en_name": "Belize",
+        "alpha2": "BZ",
+        "alpha3": "BLZ",
+        "id": "084",
+        "name": "伯利兹"
+    },
+    {
+        "en_name": "Benin",
+        "alpha2": "BJ",
+        "alpha3": "BEN",
+        "id": "204",
+        "name": "贝宁"
+    },
+    {
+        "en_name": "Bermuda",
+        "alpha2": "BM",
+        "alpha3": "BMU",
+        "id": "060",
+        "name": "百慕大"
+    },
+    {
+        "en_name": "Bhutan",
+        "alpha2": "BT",
+        "alpha3": "BTN",
+        "id": "064",
+        "name": "不丹"
+    },
+    {
+        "en_name": "Bolivia (Plurinational State of)",
+        "alpha2": "BO",
+        "alpha3": "BOL",
+        "id": "068",
+        "name": "玻利维亚"
+    },
+    {
+        "en_name": "Bonaire, Sint Eustatius and Saba",
+        "alpha2": "BQ",
+        "alpha3": "BES",
+        "id": "535",
+        "name": "荷兰加勒比区"
+    },
+    {
+        "en_name": "Bosnia and Herzegovina",
+        "alpha2": "BA",
+        "alpha3": "BIH",
+        "id": "070",
+        "name": "波黑"
+    },
+    {
+        "en_name": "Botswana",
+        "alpha2": "BW",
+        "alpha3": "BWA",
+        "id": "072",
+        "name": "博茨瓦纳"
+    },
+    {
+        "en_name": "Bouvet Island",
+        "alpha2": "BV",
+        "alpha3": "BVT",
+        "id": "074",
+        "name": "布韦岛"
+    },
+    {
+        "en_name": "Brazil",
+        "alpha2": "BR",
+        "alpha3": "BRA",
+        "id": "076",
+        "name": "巴西"
+    },
+    {
+        "en_name": "British Indian Ocean Territory",
+        "alpha2": "IO",
+        "alpha3": "IOT",
+        "id": "086",
+        "name": "英属印度洋领地"
+    },
+    {
+        "en_name": "Brunei Darussalam",
+        "alpha2": "BN",
+        "alpha3": "BRN",
+        "id": "096",
+        "name": "文莱"
+    },
+    {
+        "en_name": "Bulgaria",
+        "alpha2": "BG",
+        "alpha3": "BGR",
+        "id": "100",
+        "name": "保加利亚"
+    },
+    {
+        "en_name": "Burkina Faso",
+        "alpha2": "BF",
+        "alpha3": "BFA",
+        "id": "854",
+        "name": "布基纳法索"
+    },
+    {
+        "en_name": "Burundi",
+        "alpha2": "BI",
+        "alpha3": "BDI",
+        "id": "108",
+        "name": "布隆迪"
+    },
+    {
+        "en_name": "Cabo Verde",
+        "alpha2": "CV",
+        "alpha3": "CPV",
+        "id": "132",
+        "name": "佛得角"
+    },
+    {
+        "en_name": "Cambodia",
+        "alpha2": "KH",
+        "alpha3": "KHM",
+        "id": "116",
+        "name": "柬埔寨"
+    },
+    {
+        "en_name": "Cameroon",
+        "alpha2": "CM",
+        "alpha3": "CMR",
+        "id": "120",
+        "name": "喀麦隆"
+    },
+    {
+        "en_name": "Canada",
+        "alpha2": "CA",
+        "alpha3": "CAN",
+        "id": "124",
+        "name": "加拿大"
+    },
+    {
+        "en_name": "Cayman Islands",
+        "alpha2": "KY",
+        "alpha3": "CYM",
+        "id": "136",
+        "name": "开曼群岛"
+    },
+    {
+        "en_name": "Central African Republic",
+        "alpha2": "CF",
+        "alpha3": "CAF",
+        "id": "140",
+        "name": "中非"
+    },
+    {
+        "en_name": "Chad",
+        "alpha2": "TD",
+        "alpha3": "TCD",
+        "id": "148",
+        "name": "乍得"
+    },
+    {
+        "en_name": "Chile",
+        "alpha2": "CL",
+        "alpha3": "CHL",
+        "id": "152",
+        "name": "智利"
+    },
+    {
+        "en_name": "China",
+        "alpha2": "CN",
+        "alpha3": "CHN",
+        "id": "156",
+        "name": "中国"
+    },
+    {
+        "en_name": "Christmas Island",
+        "alpha2": "CX",
+        "alpha3": "CXR",
+        "id": "162",
+        "name": "圣诞岛"
+    },
+    {
+        "en_name": "Cocos (Keeling) Islands",
+        "alpha2": "CC",
+        "alpha3": "CCK",
+        "id": "166",
+        "name": "科科斯（基林）群岛"
+    },
+    {
+        "en_name": "Colombia",
+        "alpha2": "CO",
+        "alpha3": "COL",
+        "id": "170",
+        "name": "哥伦比亚"
+    },
+    {
+        "en_name": "Comoros",
+        "alpha2": "KM",
+        "alpha3": "COM",
+        "id": "174",
+        "name": "科摩罗"
+    },
+    {
+        "en_name": "Congo",
+        "alpha2": "CG",
+        "alpha3": "COG",
+        "id": "178",
+        "name": "刚果共和国"
+    },
+    {
+        "en_name": "Congo (Democratic Republic of the)",
+        "alpha2": "CD",
+        "alpha3": "COD",
+        "id": "180",
+        "name": "刚果民主共和国"
+    },
+    {
+        "en_name": "Cook Islands",
+        "alpha2": "CK",
+        "alpha3": "COK",
+        "id": "184",
+        "name": "库克群岛"
+    },
+    {
+        "en_name": "Costa Rica",
+        "alpha2": "CR",
+        "alpha3": "CRI",
+        "id": "188",
+        "name": "哥斯达黎加"
+    },
+    {
+        "en_name": "Côte d'Ivoire",
+        "alpha2": "CI",
+        "alpha3": "CIV",
+        "id": "384",
+        "name": "科特迪瓦"
+    },
+    {
+        "en_name": "Croatia",
+        "alpha2": "HR",
+        "alpha3": "HRV",
+        "id": "191",
+        "name": "克罗地亚"
+    },
+    {
+        "en_name": "Cuba",
+        "alpha2": "CU",
+        "alpha3": "CUB",
+        "id": "192",
+        "name": "古巴"
+    },
+    {
+        "en_name": "Curacao !Curaçao",
+        "alpha2": "CW",
+        "alpha3": "CUW",
+        "id": "531",
+        "name": "库拉索"
+    },
+    {
+        "en_name": "Cyprus",
+        "alpha2": "CY",
+        "alpha3": "CYP",
+        "id": "196",
+        "name": "塞浦路斯"
+    },
+    {
+        "en_name": "Czechia",
+        "alpha2": "CZ",
+        "alpha3": "CZE",
+        "id": "203",
+        "name": "捷克"
+    },
+    {
+        "en_name": "Denmark",
+        "alpha2": "DK",
+        "alpha3": "DNK",
+        "id": "208",
+        "name": "丹麦"
+    },
+    {
+        "en_name": "Djibouti",
+        "alpha2": "DJ",
+        "alpha3": "DJI",
+        "id": "262",
+        "name": "吉布提"
+    },
+    {
+        "en_name": "Dominica",
+        "alpha2": "DM",
+        "alpha3": "DMA",
+        "id": "212",
+        "name": "多米尼克"
+    },
+    {
+        "en_name": "Dominican Republic",
+        "alpha2": "DO",
+        "alpha3": "DOM",
+        "id": "214",
+        "name": "多米尼加"
+    },
+    {
+        "en_name": "Ecuador",
+        "alpha2": "EC",
+        "alpha3": "ECU",
+        "id": "218",
+        "name": "厄瓜多尔"
+    },
+    {
+        "en_name": "Egypt",
+        "alpha2": "EG",
+        "alpha3": "EGY",
+        "id": "818",
+        "name": "埃及"
+    },
+    {
+        "en_name": "El Salvador",
+        "alpha2": "SV",
+        "alpha3": "SLV",
+        "id": "222",
+        "name": "萨尔瓦多"
+    },
+    {
+        "en_name": "Equatorial Guinea",
+        "alpha2": "GQ",
+        "alpha3": "GNQ",
+        "id": "226",
+        "name": "赤道几内亚"
+    },
+    {
+        "en_name": "Eritrea",
+        "alpha2": "ER",
+        "alpha3": "ERI",
+        "id": "232",
+        "name": "厄立特里亚"
+    },
+    {
+        "en_name": "Estonia",
+        "alpha2": "EE",
+        "alpha3": "EST",
+        "id": "233",
+        "name": "爱沙尼亚"
+    },
+    {
+        "en_name": "Eswatini",
+        "alpha2": "SZ",
+        "alpha3": "SWZ",
+        "id": "748",
+        "name": "斯威士兰"
+    },
+    {
+        "en_name": "Ethiopia",
+        "alpha2": "ET",
+        "alpha3": "ETH",
+        "id": "231",
+        "name": "埃塞俄比亚"
+    },
+    {
+        "en_name": "Falkland Islands (Malvinas)",
+        "alpha2": "FK",
+        "alpha3": "FLK",
+        "id": "238",
+        "name": "福克兰群岛"
+    },
+    {
+        "en_name": "Faroe Islands",
+        "alpha2": "FO",
+        "alpha3": "FRO",
+        "id": "234",
+        "name": "法罗群岛"
+    },
+    {
+        "en_name": "Fiji",
+        "alpha2": "FJ",
+        "alpha3": "FJI",
+        "id": "242",
+        "name": "斐济"
+    },
+    {
+        "en_name": "Finland",
+        "alpha2": "FI",
+        "alpha3": "FIN",
+        "id": "246",
+        "name": "芬兰"
+    },
+    {
+        "en_name": "France",
+        "alpha2": "FR",
+        "alpha3": "FRA",
+        "id": "250",
+        "name": "法国"
+    },
+    {
+        "en_name": "French Guiana",
+        "alpha2": "GF",
+        "alpha3": "GUF",
+        "id": "254",
+        "name": "法属圭亚那"
+    },
+    {
+        "en_name": "French Polynesia",
+        "alpha2": "PF",
+        "alpha3": "PYF",
+        "id": "258",
+        "name": "法属波利尼西亚"
+    },
+    {
+        "en_name": "French Southern Territories",
+        "alpha2": "TF",
+        "alpha3": "ATF",
+        "id": "260",
+        "name": "法属南部和南极领地"
+    },
+    {
+        "en_name": "Gabon",
+        "alpha2": "GA",
+        "alpha3": "GAB",
+        "id": "266",
+        "name": "加蓬"
+    },
+    {
+        "en_name": "Gambia",
+        "alpha2": "GM",
+        "alpha3": "GMB",
+        "id": "270",
+        "name": "冈比亚"
+    },
+    {
+        "en_name": "Georgia",
+        "alpha2": "GE",
+        "alpha3": "GEO",
+        "id": "268",
+        "name": "格鲁吉亚"
+    },
+    {
+        "en_name": "Germany",
+        "alpha2": "DE",
+        "alpha3": "DEU",
+        "id": "276",
+        "name": "德国"
+    },
+    {
+        "en_name": "Ghana",
+        "alpha2": "GH",
+        "alpha3": "GHA",
+        "id": "288",
+        "name": "加纳"
+    },
+    {
+        "en_name": "Gibraltar",
+        "alpha2": "GI",
+        "alpha3": "GIB",
+        "id": "292",
+        "name": "直布罗陀"
+    },
+    {
+        "en_name": "Greece",
+        "alpha2": "GR",
+        "alpha3": "GRC",
+        "id": "300",
+        "name": "希腊"
+    },
+    {
+        "en_name": "Greenland",
+        "alpha2": "GL",
+        "alpha3": "GRL",
+        "id": "304",
+        "name": "格陵兰"
+    },
+    {
+        "en_name": "Grenada",
+        "alpha2": "GD",
+        "alpha3": "GRD",
+        "id": "308",
+        "name": "格林纳达"
+    },
+    {
+        "en_name": "Guadeloupe",
+        "alpha2": "GP",
+        "alpha3": "GLP",
+        "id": "312",
+        "name": "瓜德罗普"
+    },
+    {
+        "en_name": "Guam",
+        "alpha2": "GU",
+        "alpha3": "GUM",
+        "id": "316",
+        "name": "关岛"
+    },
+    {
+        "en_name": "Guatemala",
+        "alpha2": "GT",
+        "alpha3": "GTM",
+        "id": "320",
+        "name": "危地马拉"
+    },
+    {
+        "en_name": "Guernsey",
+        "alpha2": "GG",
+        "alpha3": "GGY",
+        "id": "831",
+        "name": "根西"
+    },
+    {
+        "en_name": "Guinea",
+        "alpha2": "GN",
+        "alpha3": "GIN",
+        "id": "324",
+        "name": "几内亚"
+    },
+    {
+        "en_name": "Guinea-Bissau",
+        "alpha2": "GW",
+        "alpha3": "GNB",
+        "id": "624",
+        "name": "几内亚比绍"
+    },
+    {
+        "en_name": "Guyana",
+        "alpha2": "GY",
+        "alpha3": "GUY",
+        "id": "328",
+        "name": "圭亚那"
+    },
+    {
+        "en_name": "Haiti",
+        "alpha2": "HT",
+        "alpha3": "HTI",
+        "id": "332",
+        "name": "海地"
+    },
+    {
+        "en_name": "Heard Island and McDonald Islands",
+        "alpha2": "HM",
+        "alpha3": "HMD",
+        "id": "334",
+        "name": "赫德岛和麦克唐纳群岛"
+    },
+    {
+        "en_name": "Holy See",
+        "alpha2": "VA",
+        "alpha3": "VAT",
+        "id": "336",
+        "name": "梵蒂冈"
+    },
+    {
+        "en_name": "Honduras",
+        "alpha2": "HN",
+        "alpha3": "HND",
+        "id": "340",
+        "name": "洪都拉斯"
+    },
+    {
+        "en_name": "Hong Kong",
+        "alpha2": "HK",
+        "alpha3": "HKG",
+        "id": "344",
+        "name": "香港"
+    },
+    {
+        "en_name": "Hungary",
+        "alpha2": "HU",
+        "alpha3": "HUN",
+        "id": "348",
+        "name": "匈牙利"
+    },
+    {
+        "en_name": "Iceland",
+        "alpha2": "IS",
+        "alpha3": "ISL",
+        "id": "352",
+        "name": "冰岛"
+    },
+    {
+        "en_name": "India",
+        "alpha2": "IN",
+        "alpha3": "IND",
+        "id": "356",
+        "name": "印度"
+    },
+    {
+        "en_name": "Indonesia",
+        "alpha2": "ID",
+        "alpha3": "IDN",
+        "id": "360",
+        "name": "印尼"
+    },
+    {
+        "en_name": "Iran (Islamic Republic of)",
+        "alpha2": "IR",
+        "alpha3": "IRN",
+        "id": "364",
+        "name": "伊朗"
+    },
+    {
+        "en_name": "Iraq",
+        "alpha2": "IQ",
+        "alpha3": "IRQ",
+        "id": "368",
+        "name": "伊拉克"
+    },
+    {
+        "en_name": "Ireland",
+        "alpha2": "IE",
+        "alpha3": "IRL",
+        "id": "372",
+        "name": "爱尔兰"
+    },
+    {
+        "en_name": "Isle of Man",
+        "alpha2": "IM",
+        "alpha3": "IMN",
+        "id": "833",
+        "name": "马恩岛"
+    },
+    {
+        "en_name": "Israel",
+        "alpha2": "IL",
+        "alpha3": "ISR",
+        "id": "376",
+        "name": "以色列"
+    },
+    {
+        "en_name": "Italy",
+        "alpha2": "IT",
+        "alpha3": "ITA",
+        "id": "380",
+        "name": "意大利"
+    },
+    {
+        "en_name": "Jamaica",
+        "alpha2": "JM",
+        "alpha3": "JAM",
+        "id": "388",
+        "name": "牙买加"
+    },
+    {
+        "en_name": "Japan",
+        "alpha2": "JP",
+        "alpha3": "JPN",
+        "id": "392",
+        "name": "日本"
+    },
+    {
+        "en_name": "Jersey",
+        "alpha2": "JE",
+        "alpha3": "JEY",
+        "id": "832",
+        "name": "泽西"
+    },
+    {
+        "en_name": "Jordan",
+        "alpha2": "JO",
+        "alpha3": "JOR",
+        "id": "400",
+        "name": "约旦"
+    },
+    {
+        "en_name": "Kazakhstan",
+        "alpha2": "KZ",
+        "alpha3": "KAZ",
+        "id": "398",
+        "name": "哈萨克斯坦"
+    },
+    {
+        "en_name": "Kenya",
+        "alpha2": "KE",
+        "alpha3": "KEN",
+        "id": "404",
+        "name": "肯尼亚"
+    },
+    {
+        "en_name": "Kiribati",
+        "alpha2": "KI",
+        "alpha3": "KIR",
+        "id": "296",
+        "name": "基里巴斯"
+    },
+    {
+        "en_name": "Korea (Democratic People's Republic of)",
+        "alpha2": "KP",
+        "alpha3": "PRK",
+        "id": "408",
+        "name": "朝鲜"
+    },
+    {
+        "en_name": "Korea (Republic of)",
+        "alpha2": "KR",
+        "alpha3": "KOR",
+        "id": "410",
+        "name": "韩国"
+    },
+    {
+        "en_name": "Kuwait",
+        "alpha2": "KW",
+        "alpha3": "KWT",
+        "id": "414",
+        "name": "科威特"
+    },
+    {
+        "en_name": "Kyrgyzstan",
+        "alpha2": "KG",
+        "alpha3": "KGZ",
+        "id": "417",
+        "name": "吉尔吉斯斯坦"
+    },
+    {
+        "en_name": "Lao People's Democratic Republic",
+        "alpha2": "LA",
+        "alpha3": "LAO",
+        "id": "418",
+        "name": "老挝"
+    },
+    {
+        "en_name": "Latvia",
+        "alpha2": "LV",
+        "alpha3": "LVA",
+        "id": "428",
+        "name": "拉脱维亚"
+    },
+    {
+        "en_name": "Lebanon",
+        "alpha2": "LB",
+        "alpha3": "LBN",
+        "id": "422",
+        "name": "黎巴嫩"
+    },
+    {
+        "en_name": "Lesotho",
+        "alpha2": "LS",
+        "alpha3": "LSO",
+        "id": "426",
+        "name": "莱索托"
+    },
+    {
+        "en_name": "Liberia",
+        "alpha2": "LR",
+        "alpha3": "LBR",
+        "id": "430",
+        "name": "利比里亚"
+    },
+    {
+        "en_name": "Libya",
+        "alpha2": "LY",
+        "alpha3": "LBY",
+        "id": "434",
+        "name": "利比亚"
+    },
+    {
+        "en_name": "Liechtenstein",
+        "alpha2": "LI",
+        "alpha3": "LIE",
+        "id": "438",
+        "name": "列支敦士登"
+    },
+    {
+        "en_name": "Lithuania",
+        "alpha2": "LT",
+        "alpha3": "LTU",
+        "id": "440",
+        "name": "立陶宛"
+    },
+    {
+        "en_name": "Luxembourg",
+        "alpha2": "LU",
+        "alpha3": "LUX",
+        "id": "442",
+        "name": "卢森堡"
+    },
+    {
+        "en_name": "Macao",
+        "alpha2": "MO",
+        "alpha3": "MAC",
+        "id": "446",
+        "name": "澳门"
+    },
+    {
+        "en_name": "Madagascar",
+        "alpha2": "MG",
+        "alpha3": "MDG",
+        "id": "450",
+        "name": "马达加斯加"
+    },
+    {
+        "en_name": "Malawi",
+        "alpha2": "MW",
+        "alpha3": "MWI",
+        "id": "454",
+        "name": "马拉维"
+    },
+    {
+        "en_name": "Malaysia",
+        "alpha2": "MY",
+        "alpha3": "MYS",
+        "id": "458",
+        "name": "马来西亚"
+    },
+    {
+        "en_name": "Maldives",
+        "alpha2": "MV",
+        "alpha3": "MDV",
+        "id": "462",
+        "name": "马尔代夫"
+    },
+    {
+        "en_name": "Mali",
+        "alpha2": "ML",
+        "alpha3": "MLI",
+        "id": "466",
+        "name": "马里"
+    },
+    {
+        "en_name": "Malta",
+        "alpha2": "MT",
+        "alpha3": "MLT",
+        "id": "470",
+        "name": "马耳他"
+    },
+    {
+        "en_name": "Marshall Islands",
+        "alpha2": "MH",
+        "alpha3": "MHL",
+        "id": "584",
+        "name": "马绍尔群岛"
+    },
+    {
+        "en_name": "Martinique",
+        "alpha2": "MQ",
+        "alpha3": "MTQ",
+        "id": "474",
+        "name": "马提尼克"
+    },
+    {
+        "en_name": "Mauritania",
+        "alpha2": "MR",
+        "alpha3": "MRT",
+        "id": "478",
+        "name": "毛里塔尼亚"
+    },
+    {
+        "en_name": "Mauritius",
+        "alpha2": "MU",
+        "alpha3": "MUS",
+        "id": "480",
+        "name": "毛里求斯"
+    },
+    {
+        "en_name": "Mayotte",
+        "alpha2": "YT",
+        "alpha3": "MYT",
+        "id": "175",
+        "name": "马约特"
+    },
+    {
+        "en_name": "Mexico",
+        "alpha2": "MX",
+        "alpha3": "MEX",
+        "id": "484",
+        "name": "墨西哥"
+    },
+    {
+        "en_name": "Micronesia (Federated States of)",
+        "alpha2": "FM",
+        "alpha3": "FSM",
+        "id": "583",
+        "name": "密克罗尼西亚联邦"
+    },
+    {
+        "en_name": "Moldova (Republic of)",
+        "alpha2": "MD",
+        "alpha3": "MDA",
+        "id": "498",
+        "name": "摩尔多瓦"
+    },
+    {
+        "en_name": "Monaco",
+        "alpha2": "MC",
+        "alpha3": "MCO",
+        "id": "492",
+        "name": "摩纳哥"
+    },
+    {
+        "en_name": "Mongolia",
+        "alpha2": "MN",
+        "alpha3": "MNG",
+        "id": "496",
+        "name": "蒙古"
+    },
+    {
+        "en_name": "Montenegro",
+        "alpha2": "ME",
+        "alpha3": "MNE",
+        "id": "499",
+        "name": "黑山"
+    },
+    {
+        "en_name": "Montserrat",
+        "alpha2": "MS",
+        "alpha3": "MSR",
+        "id": "500",
+        "name": "蒙特塞拉特"
+    },
+    {
+        "en_name": "Morocco",
+        "alpha2": "MA",
+        "alpha3": "MAR",
+        "id": "504",
+        "name": "摩洛哥"
+    },
+    {
+        "en_name": "Mozambique",
+        "alpha2": "MZ",
+        "alpha3": "MOZ",
+        "id": "508",
+        "name": "莫桑比克"
+    },
+    {
+        "en_name": "Myanmar",
+        "alpha2": "MM",
+        "alpha3": "MMR",
+        "id": "104",
+        "name": "缅甸"
+    },
+    {
+        "en_name": "Namibia",
+        "alpha2": "NA",
+        "alpha3": "NAM",
+        "id": "516",
+        "name": "纳米比亚"
+    },
+    {
+        "en_name": "Nauru",
+        "alpha2": "NR",
+        "alpha3": "NRU",
+        "id": "520",
+        "name": "瑙鲁"
+    },
+    {
+        "en_name": "Nepal",
+        "alpha2": "NP",
+        "alpha3": "NPL",
+        "id": "524",
+        "name": "尼泊尔"
+    },
+    {
+        "en_name": "Netherlands",
+        "alpha2": "NL",
+        "alpha3": "NLD",
+        "id": "528",
+        "name": "荷兰"
+    },
+    {
+        "en_name": "New Caledonia",
+        "alpha2": "NC",
+        "alpha3": "NCL",
+        "id": "540",
+        "name": "新喀里多尼亚"
+    },
+    {
+        "en_name": "New Zealand",
+        "alpha2": "NZ",
+        "alpha3": "NZL",
+        "id": "554",
+        "name": "新西兰"
+    },
+    {
+        "en_name": "Nicaragua",
+        "alpha2": "NI",
+        "alpha3": "NIC",
+        "id": "558",
+        "name": "尼加拉瓜"
+    },
+    {
+        "en_name": "Niger",
+        "alpha2": "NE",
+        "alpha3": "NER",
+        "id": "562",
+        "name": "尼日尔"
+    },
+    {
+        "en_name": "Nigeria",
+        "alpha2": "NG",
+        "alpha3": "NGA",
+        "id": "566",
+        "name": "尼日利亚"
+    },
+    {
+        "en_name": "Niue",
+        "alpha2": "NU",
+        "alpha3": "NIU",
+        "id": "570",
+        "name": "纽埃"
+    },
+    {
+        "en_name": "Norfolk Island",
+        "alpha2": "NF",
+        "alpha3": "NFK",
+        "id": "574",
+        "name": "诺福克岛"
+    },
+    {
+        "en_name": "North Macedonia",
+        "alpha2": "MK",
+        "alpha3": "MKD",
+        "id": "807",
+        "name": "北马其顿"
+    },
+    {
+        "en_name": "Northern Mariana Islands",
+        "alpha2": "MP",
+        "alpha3": "MNP",
+        "id": "580",
+        "name": "北马里亚纳群岛"
+    },
+    {
+        "en_name": "Norway",
+        "alpha2": "NO",
+        "alpha3": "NOR",
+        "id": "578",
+        "name": "挪威"
+    },
+    {
+        "en_name": "Oman",
+        "alpha2": "OM",
+        "alpha3": "OMN",
+        "id": "512",
+        "name": "阿曼"
+    },
+    {
+        "en_name": "Pakistan",
+        "alpha2": "PK",
+        "alpha3": "PAK",
+        "id": "586",
+        "name": "巴基斯坦"
+    },
+    {
+        "en_name": "Palau",
+        "alpha2": "PW",
+        "alpha3": "PLW",
+        "id": "585",
+        "name": "帕劳"
+    },
+    {
+        "en_name": "Palestine, State of",
+        "alpha2": "PS",
+        "alpha3": "PSE",
+        "id": "275",
+        "name": "巴勒斯坦"
+    },
+    {
+        "en_name": "Panama",
+        "alpha2": "PA",
+        "alpha3": "PAN",
+        "id": "591",
+        "name": "巴拿马"
+    },
+    {
+        "en_name": "Papua New Guinea",
+        "alpha2": "PG",
+        "alpha3": "PNG",
+        "id": "598",
+        "name": "巴布亚新几内亚"
+    },
+    {
+        "en_name": "Paraguay",
+        "alpha2": "PY",
+        "alpha3": "PRY",
+        "id": "600",
+        "name": "巴拉圭"
+    },
+    {
+        "en_name": "Peru",
+        "alpha2": "PE",
+        "alpha3": "PER",
+        "id": "604",
+        "name": "秘鲁"
+    },
+    {
+        "en_name": "Philippines",
+        "alpha2": "PH",
+        "alpha3": "PHL",
+        "id": "608",
+        "name": "菲律宾"
+    },
+    {
+        "en_name": "Pitcairn",
+        "alpha2": "PN",
+        "alpha3": "PCN",
+        "id": "612",
+        "name": "皮特凯恩群岛"
+    },
+    {
+        "en_name": "Poland",
+        "alpha2": "PL",
+        "alpha3": "POL",
+        "id": "616",
+        "name": "波兰"
+    },
+    {
+        "en_name": "Portugal",
+        "alpha2": "PT",
+        "alpha3": "PRT",
+        "id": "620",
+        "name": "葡萄牙"
+    },
+    {
+        "en_name": "Puerto Rico",
+        "alpha2": "PR",
+        "alpha3": "PRI",
+        "id": "630",
+        "name": "波多黎各"
+    },
+    {
+        "en_name": "Qatar",
+        "alpha2": "QA",
+        "alpha3": "QAT",
+        "id": "634",
+        "name": "卡塔尔"
+    },
+    {
+        "en_name": "Réunion",
+        "alpha2": "RE",
+        "alpha3": "REU",
+        "id": "638",
+        "name": "留尼汪"
+    },
+    {
+        "en_name": "Romania",
+        "alpha2": "RO",
+        "alpha3": "ROU",
+        "id": "642",
+        "name": "罗马尼亚"
+    },
+    {
+        "en_name": "Russian Federation",
+        "alpha2": "RU",
+        "alpha3": "RUS",
+        "id": "643",
+        "name": "俄罗斯"
+    },
+    {
+        "en_name": "Rwanda",
+        "alpha2": "RW",
+        "alpha3": "RWA",
+        "id": "646",
+        "name": "卢旺达"
+    },
+    {
+        "en_name": "Saint Barthélemy",
+        "alpha2": "BL",
+        "alpha3": "BLM",
+        "id": "652",
+        "name": "圣巴泰勒米"
+    },
+    {
+        "en_name": "Saint Helena, Ascension and Tristan da Cunha",
+        "alpha2": "SH",
+        "alpha3": "SHN",
+        "id": "654",
+        "name": "圣赫勒拿、阿森松和特里斯坦-达库尼亚"
+    },
+    {
+        "en_name": "Saint Kitts and Nevis",
+        "alpha2": "KN",
+        "alpha3": "KNA",
+        "id": "659",
+        "name": "圣基茨和尼维斯"
+    },
+    {
+        "en_name": "Saint Lucia",
+        "alpha2": "LC",
+        "alpha3": "LCA",
+        "id": "662",
+        "name": "圣卢西亚"
+    },
+    {
+        "en_name": "Saint Martin (French part)",
+        "alpha2": "MF",
+        "alpha3": "MAF",
+        "id": "663",
+        "name": "法属圣马丁"
+    },
+    {
+        "en_name": "Saint Pierre and Miquelon",
+        "alpha2": "PM",
+        "alpha3": "SPM",
+        "id": "666",
+        "name": "圣皮埃尔和密克隆"
+    },
+    {
+        "en_name": "Saint Vincent and the Grenadines",
+        "alpha2": "VC",
+        "alpha3": "VCT",
+        "id": "670",
+        "name": "圣文森特和格林纳丁斯"
+    },
+    {
+        "en_name": "Samoa",
+        "alpha2": "WS",
+        "alpha3": "WSM",
+        "id": "882",
+        "name": "萨摩亚"
+    },
+    {
+        "en_name": "San Marino",
+        "alpha2": "SM",
+        "alpha3": "SMR",
+        "id": "674",
+        "name": "圣马力诺"
+    },
+    {
+        "en_name": "Sao Tome and Principe",
+        "alpha2": "ST",
+        "alpha3": "STP",
+        "id": "678",
+        "name": "圣多美和普林西比"
+    },
+    {
+        "en_name": "Saudi Arabia",
+        "alpha2": "SA",
+        "alpha3": "SAU",
+        "id": "682",
+        "name": "沙特阿拉伯"
+    },
+    {
+        "en_name": "Senegal",
+        "alpha2": "SN",
+        "alpha3": "SEN",
+        "id": "686",
+        "name": "塞内加尔"
+    },
+    {
+        "en_name": "Serbia",
+        "alpha2": "RS",
+        "alpha3": "SRB",
+        "id": "688",
+        "name": "塞尔维亚"
+    },
+    {
+        "en_name": "Seychelles",
+        "alpha2": "SC",
+        "alpha3": "SYC",
+        "id": "690",
+        "name": "塞舌尔"
+    },
+    {
+        "en_name": "Sierra Leone",
+        "alpha2": "SL",
+        "alpha3": "SLE",
+        "id": "694",
+        "name": "塞拉利昂"
+    },
+    {
+        "en_name": "Singapore",
+        "alpha2": "SG",
+        "alpha3": "SGP",
+        "id": "702",
+        "name": "新加坡"
+    },
+    {
+        "en_name": "Sint Maarten (Dutch part)",
+        "alpha2": "SX",
+        "alpha3": "SXM",
+        "id": "534",
+        "name": "荷属圣马丁"
+    },
+    {
+        "en_name": "Slovakia",
+        "alpha2": "SK",
+        "alpha3": "SVK",
+        "id": "703",
+        "name": "斯洛伐克"
+    },
+    {
+        "en_name": "Slovenia",
+        "alpha2": "SI",
+        "alpha3": "SVN",
+        "id": "705",
+        "name": "斯洛文尼亚"
+    },
+    {
+        "en_name": "Solomon Islands",
+        "alpha2": "SB",
+        "alpha3": "SLB",
+        "id": "090",
+        "name": "所罗门群岛"
+    },
+    {
+        "en_name": "Somalia",
+        "alpha2": "SO",
+        "alpha3": "SOM",
+        "id": "706",
+        "name": "索马里"
+    },
+    {
+        "en_name": "South Africa",
+        "alpha2": "ZA",
+        "alpha3": "ZAF",
+        "id": "710",
+        "name": "南非"
+    },
+    {
+        "en_name": "South Georgia and the South Sandwich Islands",
+        "alpha2": "GS",
+        "alpha3": "SGS",
+        "id": "239",
+        "name": "南乔治亚和南桑威奇群岛"
+    },
+    {
+        "en_name": "South Sudan",
+        "alpha2": "SS",
+        "alpha3": "SSD",
+        "id": "728",
+        "name": "南苏丹"
+    },
+    {
+        "en_name": "Spain",
+        "alpha2": "ES",
+        "alpha3": "ESP",
+        "id": "724",
+        "name": "西班牙"
+    },
+    {
+        "en_name": "Sri Lanka",
+        "alpha2": "LK",
+        "alpha3": "LKA",
+        "id": "144",
+        "name": "斯里兰卡"
+    },
+    {
+        "en_name": "Sudan",
+        "alpha2": "SD",
+        "alpha3": "SDN",
+        "id": "729",
+        "name": "苏丹"
+    },
+    {
+        "en_name": "Suriname",
+        "alpha2": "SR",
+        "alpha3": "SUR",
+        "id": "740",
+        "name": "苏里南"
+    },
+    {
+        "en_name": "Svalbard and Jan Mayen",
+        "alpha2": "SJ",
+        "alpha3": "SJM",
+        "id": "744",
+        "name": "斯瓦尔巴和扬马延"
+    },
+    {
+        "en_name": "Sweden",
+        "alpha2": "SE",
+        "alpha3": "SWE",
+        "id": "752",
+        "name": "瑞典"
+    },
+    {
+        "en_name": "Switzerland",
+        "alpha2": "CH",
+        "alpha3": "CHE",
+        "id": "756",
+        "name": "瑞士"
+    },
+    {
+        "en_name": "Syrian Arab Republic",
+        "alpha2": "SY",
+        "alpha3": "SYR",
+        "id": "760",
+        "name": "叙利亚"
+    },
+    {
+        "en_name": "Taiwan, Province of China[note 1]",
+        "alpha2": "TW",
+        "alpha3": "TWN",
+        "id": "158",
+        "name": "中国台湾省"
+    },
+    {
+        "en_name": "Tajikistan",
+        "alpha2": "TJ",
+        "alpha3": "TJK",
+        "id": "762",
+        "name": "塔吉克斯坦"
+    },
+    {
+        "en_name": "Tanzania, United Republic of",
+        "alpha2": "TZ",
+        "alpha3": "TZA",
+        "id": "834",
+        "name": "坦桑尼亚"
+    },
+    {
+        "en_name": "Thailand",
+        "alpha2": "TH",
+        "alpha3": "THA",
+        "id": "764",
+        "name": "泰国"
+    },
+    {
+        "en_name": "Timor-Leste",
+        "alpha2": "TL",
+        "alpha3": "TLS",
+        "id": "626",
+        "name": "东帝汶"
+    },
+    {
+        "en_name": "Togo",
+        "alpha2": "TG",
+        "alpha3": "TGO",
+        "id": "768",
+        "name": "多哥"
+    },
+    {
+        "en_name": "Tokelau",
+        "alpha2": "TK",
+        "alpha3": "TKL",
+        "id": "772",
+        "name": "托克劳"
+    },
+    {
+        "en_name": "Tonga",
+        "alpha2": "TO",
+        "alpha3": "TON",
+        "id": "776",
+        "name": "汤加"
+    },
+    {
+        "en_name": "Trinidad and Tobago",
+        "alpha2": "TT",
+        "alpha3": "TTO",
+        "id": "780",
+        "name": "特立尼达和多巴哥"
+    },
+    {
+        "en_name": "Tunisia",
+        "alpha2": "TN",
+        "alpha3": "TUN",
+        "id": "788",
+        "name": "突尼斯"
+    },
+    {
+        "en_name": "Turkey",
+        "alpha2": "TR",
+        "alpha3": "TUR",
+        "id": "792",
+        "name": "土耳其"
+    },
+    {
+        "en_name": "Turkmenistan",
+        "alpha2": "TM",
+        "alpha3": "TKM",
+        "id": "795",
+        "name": "土库曼斯坦"
+    },
+    {
+        "en_name": "Turks and Caicos Islands",
+        "alpha2": "TC",
+        "alpha3": "TCA",
+        "id": "796",
+        "name": "特克斯和凯科斯群岛"
+    },
+    {
+        "en_name": "Tuvalu",
+        "alpha2": "TV",
+        "alpha3": "TUV",
+        "id": "798",
+        "name": "图瓦卢"
+    },
+    {
+        "en_name": "Uganda",
+        "alpha2": "UG",
+        "alpha3": "UGA",
+        "id": "800",
+        "name": "乌干达"
+    },
+    {
+        "en_name": "Ukraine",
+        "alpha2": "UA",
+        "alpha3": "UKR",
+        "id": "804",
+        "name": "乌克兰"
+    },
+    {
+        "en_name": "United Arab Emirates",
+        "alpha2": "AE",
+        "alpha3": "ARE",
+        "id": "784",
+        "name": "阿联酋"
+    },
+    {
+        "en_name": "United Kingdom of Great Britain and Northern Ireland",
+        "alpha2": "GB",
+        "alpha3": "GBR",
+        "id": "826",
+        "name": "英国"
+    },
+    {
+        "en_name": "United States of America",
+        "alpha2": "US",
+        "alpha3": "USA",
+        "id": "840",
+        "name": "美国"
+    },
+    {
+        "en_name": "United States Minor Outlying Islands",
+        "alpha2": "UM",
+        "alpha3": "UMI",
+        "id": "581",
+        "name": "美国本土外小岛屿"
+    },
+    {
+        "en_name": "Uruguay",
+        "alpha2": "UY",
+        "alpha3": "URY",
+        "id": "858",
+        "name": "乌拉圭"
+    },
+    {
+        "en_name": "Uzbekistan",
+        "alpha2": "UZ",
+        "alpha3": "UZB",
+        "id": "860",
+        "name": "乌兹别克斯坦"
+    },
+    {
+        "en_name": "Vanuatu",
+        "alpha2": "VU",
+        "alpha3": "VUT",
+        "id": "548",
+        "name": "瓦努阿图"
+    },
+    {
+        "en_name": "Venezuela (Bolivarian Republic of)",
+        "alpha2": "VE",
+        "alpha3": "VEN",
+        "id": "862",
+        "name": "委内瑞拉"
+    },
+    {
+        "en_name": "Viet Nam",
+        "alpha2": "VN",
+        "alpha3": "VNM",
+        "id": "704",
+        "name": "越南"
+    },
+    {
+        "en_name": "Virgin Islands (British)",
+        "alpha2": "VG",
+        "alpha3": "VGB",
+        "id": "092",
+        "name": "英属维尔京群岛"
+    },
+    {
+        "en_name": "Virgin Islands (U.S.)",
+        "alpha2": "VI",
+        "alpha3": "VIR",
+        "id": "850",
+        "name": "美属维尔京群岛"
+    },
+    {
+        "en_name": "Wallis and Futuna",
+        "alpha2": "WF",
+        "alpha3": "WLF",
+        "id": "876",
+        "name": "瓦利斯和富图纳"
+    },
+    {
+        "en_name": "Western Sahara",
+        "alpha2": "EH",
+        "alpha3": "ESH",
+        "id": "732",
+        "name": "西撒哈拉"
+    },
+    {
+        "en_name": "Yemen",
+        "alpha2": "YE",
+        "alpha3": "YEM",
+        "id": "887",
+        "name": "也门"
+    },
+    {
+        "en_name": "Zambia",
+        "alpha2": "ZM",
+        "alpha3": "ZMB",
+        "id": "894",
+        "name": "赞比亚"
+    },
+    {
+        "en_name": "Zimbabwe",
+        "alpha2": "ZW",
+        "alpha3": "ZWE",
+        "id": "716",
+        "name": "津巴布韦"
+    }
+]
